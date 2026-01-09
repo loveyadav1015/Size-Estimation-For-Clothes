@@ -66,7 +66,7 @@ These features are combined to form a body profile used for size classification.
 ---
 
 ## 🏗️ System Architecture
-```mermaid
+```md
 [Video Input + Height] 
 ↓
 [Body / Pose Detection]
